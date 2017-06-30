@@ -25,3 +25,4 @@ print(c)
 import random
 d = random.sample(range(4,15),8)
 print(d)
+
