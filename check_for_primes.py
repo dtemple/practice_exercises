@@ -12,3 +12,5 @@ if len(actual_divisors) == 0:
     print("Prime bitch")
 else:
     print("Not prime. It's divisible by " + str(actual_divisors))
+
+# NOTE: should check if 1 and 2 and neg numbers count as prime
